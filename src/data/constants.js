@@ -155,7 +155,7 @@ export const education = [
     img: "https://tse1.mm.bing.net/th?id=OIP.b90Mk4VfVdg3REItAt70HAAAAA&pid=Api&P=0&h=220",
     school: "Vijayalakshmi Martic Hr Sec School,Coimbatore",
     date: "JUN 2020 - MAY 2021",
-    grade: "91.8%",
+    grade: "91.9%",
     desc: "I completed my class 12 high school education at Vijayalakshmi Martic Hr Sec School,Coimbatore, where I studied Science with Computer Science.",
     degree: "CSE(XII), Science with Computer",
   },
