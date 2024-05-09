@@ -61,14 +61,11 @@ export const skills = [
       
       
       {
-        name: "MySQL",
+        name: "SQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
-      {
-        name: "Postgresql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
+     
       {
         name: "MongoDB",
         image:
@@ -106,16 +103,7 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
       },
-      {
-        name: "GitHub",
-        image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-      },
-      {
-        name: "Docker",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      },
+     
       
       
       {
@@ -128,12 +116,7 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
       },
-      
-      {
-        name: "Figma",
-        image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
-      },
+    
     ],
   },
 ];
@@ -199,7 +182,7 @@ export const projects = [
       "A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
       "https://www.sourcecodester.com/sites/default/files/images/oretnom23/djang-todo-app.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Firebase"],
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "#",
